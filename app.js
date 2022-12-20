@@ -140,4 +140,7 @@ for (let i in resource) {
 
 target.addEventListener('keyup', () => {
     result.innerText = `Area: ${resource[target.value]}`;
-})
+});
+
+
+fetch('./test.txt').then(res=>res.text()).then(res=>console.log(res))
