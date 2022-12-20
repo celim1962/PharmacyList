@@ -105,7 +105,12 @@ qtern 5/10mg: G11,
 loditon 850: G12,
 jardiance 10(低): G13,
 
-
+Lyrica 75mg:v-1,
+Nebilet 5mg:v-2,
+Amlos 5mg:v-3,
+Pregabalin:v-4,
+Anxotos 15(金) 15mg:v-5,
+Forliton伏痛好 40mg:v-6,
 xigduo XR 10mg/1000 mg:V-7,
 Vosaa 320 mg:V-8,
 Metsafe 1000 ER 1000 mg:V-9,
@@ -253,3 +258,5 @@ Diphenidol:L-12a,
 Sevikar HCT(綠):L-12b,
 Bethanechol:L-13.a,
 Vesicare:L-13b,
+
+
