@@ -143,4 +143,4 @@ target.addEventListener('keyup', () => {
 });
 
 
-fetch('./test.txt').then(res=>res.text()).then(res=>console.log(res))
+fetch('https://celim1962.github.io/PharmacyList/test.txt').then(res=>res.text()).then(res=>console.log(res))
